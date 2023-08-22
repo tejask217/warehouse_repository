@@ -1,0 +1,5 @@
+package com.warehouse.pojo;
+
+public class User {
+
+}
