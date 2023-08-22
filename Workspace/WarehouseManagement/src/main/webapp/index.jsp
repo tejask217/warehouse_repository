@@ -7,6 +7,6 @@
 <title>Warehouse</title>
 </head>
 <body>
-<h1>This is our first dynamic web project</h1>
+<h1>This is our first web project</h1>
 </body>
 </html>
