@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+C:\Users\Tejas PC\Documents\tejas\Java\GIT\warehouse_repository\Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1036581090.index
-3276499731.index
-3004698302.index
-2087037459.index
-1449701867.index
-52745029.index
-3524480786.index
